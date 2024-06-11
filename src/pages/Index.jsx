@@ -5,25 +5,25 @@ const products = [
     id: 1,
     name: "Smartphone",
     price: "$299",
-    image: "https://via.placeholder.com/150"
+    image: "/images/smartphone.jpg"
   },
   {
     id: 2,
     name: "Laptop",
     price: "$799",
-    image: "https://via.placeholder.com/150"
+    image: "/images/laptop.jpg"
   },
   {
     id: 3,
     name: "Smartwatch",
     price: "$199",
-    image: "https://via.placeholder.com/150"
+    image: "/images/smartwatch.jpg"
   },
   {
     id: 4,
     name: "Headphones",
     price: "$99",
-    image: "https://via.placeholder.com/150"
+    image: "/images/headphones.jpg"
   }
 ];
 
